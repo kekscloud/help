@@ -1,2 +1,2 @@
-# help
-How to use
+# HELP
+kekscloud.com
