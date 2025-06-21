@@ -1,2 +1,2 @@
-# SOON AVAILABLE
+# Soon Available
 kekscloud.com
